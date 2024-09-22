@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:assets\lib\image\Zarar Ali_Photo.JPG
+avatar:https://media.licdn.com/dms/image/v2/D5635AQHQfZCzzGf99g/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1714545259489?e=1727600400&v=beta&t=RxDgzboTfHAkv-J1pskN2_XzaP2zaukEkeKDHLz0QM4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
