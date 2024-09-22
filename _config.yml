@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Africa/Cairo
+timezone: India/calcutta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -37,15 +37,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: zarar1210
+  name: Zarar Ali
   email: zarar1210@gmail.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/tremooo # change to your twitter homepage
-    - https://github.com/Zararali # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/ahmed.tremo
-    - https://www.linkedin.com/in/Zararali
+    - https://github.com/zarar1210
+    - www.linkedin.com/in/zararali90
 
 google_site_verification: # fill in to your verification string
 
