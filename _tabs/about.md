@@ -4,11 +4,9 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Professional Summary 
 {: .prompt-tip }
 
-
-## PROFESSIONAL SUMMARY
 1. 8 + years of experience in Node.JS/Full Stack Development.
 2. Proficient in development methodologies such as software development life cycle.
 3. Development experience on the Node.JS platform with strong hands-on expertise in building enterprise web applications.
