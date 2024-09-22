@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: Bootstrap
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -23,7 +23,7 @@ title: Zarar Ali # the main title
 tagline: I'm Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Zararali, Blog, Github, Machine Learning, Python
+  Zarar ali, Blog, Github, Node Js, Devops, Javascript
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://zarar1210.github.io"
